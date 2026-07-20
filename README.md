@@ -1,0 +1,2 @@
+Adjunto código de MIS soluciones de/para ejercicios propuestos en codewars (sin IA). Intentaré mantenerlo separado por niveles y lenguajes de programación, según corresponda.
+Estoy teniendo problemas con Fortran, y creo que varios más, no es un lenguaje muy popular, pero realmente me interesa, entonces en algunos casos añadiré la aclaración correspondiente de si la solución no fue enviada, pero considero que es correcta.
